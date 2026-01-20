@@ -1,31 +1,28 @@
 ## Ivan Edward — Informatics Student & Backend Web Developer
 
-Undergraduate Informatics student at Universitas Esa Unggul with a focus on backend web development.
-Interested in building structured web applications using PHP-based technologies and modern development workflows.
+I am an undergraduate Informatics student at Universitas Esa Unggul with a strong interest in backend web development.
+My focus is on building web applications with clear structure, maintainable code, and practical deployment setups.
 
-Currently exploring backend architecture, server configuration, and containerized environments.
-
----
-
-### Technical Focus
-- Backend Development (PHP, Laravel)
-- Server-side Rendering
-- REST-style Application Structure
-- Docker-based Development Environment
+I primarily work with PHP-based technologies and enjoy working on the server side, from application logic to environment configuration.
 
 ---
 
-### GitHub Activity Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ragepanz&show_icons=true&hide_border=true)
+### Areas of Interest
+- Backend web application development
+- Server-side rendering and application structure
+- REST-style architecture
+- Containerized development using Docker
+- Web server configuration (Nginx)
 
 ---
 
-### Selected Work
-- **Empepel** — Web application for car trading simulation  
-  Backend-focused project with structured routing, templating, and Docker-based setup.
+### Current Direction
+At this stage, I am focusing on strengthening fundamentals through academic and personal projects.
+The emphasis is on understanding how applications are structured and deployed, rather than building feature-heavy products.
 
 ---
 
-### Notes
-This profile reflects ongoing academic and personal projects.
-The focus is on clarity, structure, and gradual improvement rather than quantity.
+### Background
+- Undergraduate Informatics student at Universitas Esa Unggul
+- Experience working with PHP, Laravel, and basic JavaScript
+- Familiar with Docker-based local development environments
