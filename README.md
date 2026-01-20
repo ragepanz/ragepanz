@@ -9,8 +9,8 @@ I primarily work with PHP-based technologies and enjoy working on the server sid
 
 ### Areas of Interest
 - Backend web application development
-- Server-side rendering and application structure
-- REST-style architecture
+- Server-side rendering with PHP and Blade
+- Structured application and routing
 - Containerized development using Docker
 - Web server configuration (Nginx)
 
@@ -24,5 +24,5 @@ The emphasis is on understanding how applications are structured and deployed, r
 
 ### Background
 - Undergraduate Informatics student at Universitas Esa Unggul
-- Experience working with PHP, Laravel, and basic JavaScript
+- Experience with PHP, Laravel, and basic JavaScript
 - Familiar with Docker-based local development environments
