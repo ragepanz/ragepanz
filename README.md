@@ -1,4 +1,4 @@
-## Ivan Edward
+## Hello there, im Ivan Edward
 
 Undergraduate Informatics student at **Universitas Esa Unggul** with a primary focus on **Web Development**, especially backend development using **PHP and Laravel**.
 
