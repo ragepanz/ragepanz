@@ -1,16 +1,23 @@
-## Hi there 👋
+## Ivan Edward
 
-<!--
-**ragepanz/ragepanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate Informatics student at **Universitas Esa Unggul** with a primary focus on **Web Development**, especially backend development using **PHP and Laravel**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Focus
+- Backend Development with PHP and Laravel  
+- Relational Databases (MySQL)  
+- Basic Frontend Development (HTML, CSS, JavaScript)  
+- Version Control using Git and GitHub  
+
+---
+
+### Current Direction
+- Strengthening backend fundamentals and Laravel project structure  
+- Improving code organization and maintainability  
+- Building web applications beyond academic requirements  
+
+---
+
+### Objective
+To develop practical and well-structured web applications and prepare for professional experience in web development.
