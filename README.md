@@ -1,25 +1,31 @@
 ## Ivan Edward — Informatics Student & Backend Web Developer
 
-Hi, I'm Ivan — an undergraduate Informatics student at **Esa Unggul University**, focused on backend web development using PHP and Laravel.
+Undergraduate Informatics student at Universitas Esa Unggul with a focus on backend web development.
+Interested in building structured web applications using PHP-based technologies and modern development workflows.
 
-I focus on building structured and maintainable web applications rather than short-lived academic projects.
+Currently exploring backend architecture, server configuration, and containerized environments.
 
 ---
 
 ### Technical Focus
-- Backend Development with PHP and Laravel  
-- Relational Databases (MySQL)  
-- Basic Frontend Development (HTML, CSS, JavaScript)  
-- Version Control using Git and GitHub  
+- Backend Development (PHP, Laravel)
+- Server-side Rendering
+- REST-style Application Structure
+- Docker-based Development Environment
 
 ---
 
-### Current Direction
-- Strengthening backend fundamentals and Laravel project structure  
-- Improving code organization and maintainability  
-- Building web applications beyond academic requirements  
+### GitHub Activity Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ragepanz&show_icons=true&hide_border=true)
 
 ---
 
-### Objective
-To develop practical and well-structured web applications and prepare for professional experience in web development.
+### Selected Work
+- **Empepel** — Web application for car trading simulation  
+  Backend-focused project with structured routing, templating, and Docker-based setup.
+
+---
+
+### Notes
+This profile reflects ongoing academic and personal projects.
+The focus is on clarity, structure, and gradual improvement rather than quantity.
