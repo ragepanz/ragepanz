@@ -1,6 +1,6 @@
 ## Ivan Edward - Ungraduated Informatics Engineering Student & Backend Web Developer
 
-I am an undergraduate Informatics Engineering student at Universitas Esa Unggul with a strong interest in backend web development.
+I am an undergraduate Informatics Engineering student at Esa Unggul University with a strong interest in backend web development.
 My focus is on building web applications with clear structure, maintainable code, and practical deployment setups.
 
 I primarily work with PHP-based technologies and enjoy working on the server side, from application logic to environment configuration.
