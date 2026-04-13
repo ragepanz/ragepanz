@@ -1,9 +1,9 @@
 # Hi there, I'm Ivan Edward 👋
 ![Header](https://vercel.app)
 
-## 🎓 Informatics Engineering Student @ Esa Unggul University
+## 🎓 Undergraduate Informatics Engineering Student & Backend Web Developer
 
-I am an undergraduate Informatics Engineering student with a strong interest in **Backend Web Development**. My focus is on building web applications with clear structure, maintainable code, and practical deployment setups. 
+I am an undergraduate Informatics Engineering student at **Esa Unggul University** with a strong interest in backend web development. My focus is on building web applications with clear structure, maintainable code, and practical deployment setups.
 
 I primarily work with PHP-based technologies and enjoy working on the server side, from application logic to environment configuration.
 
@@ -11,47 +11,42 @@ I primarily work with PHP-based technologies and enjoy working on the server sid
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://shields.io" alt="PHP" />
-  <img src="https://shields.io" alt="Laravel" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="Nginx" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 ---
 
-### 🎯 Areas of Interest & Direction
-- 🚀 **Backend Development:** Building robust server-side logic and APIs.
-- 🏗️ **Architecture:** Structured application, routing, and clean code.
-- 🐳 **Deployment:** Containerized development (Docker) and Web server config (Nginx).
-- 📚 **Current Focus:** Strengthening fundamentals through academic and personal projects.
+### 🎯 Areas of Interest
+- 🚀 **Backend Development:** Web application development & API construction.
+- 🎨 **SSR:** Server-side rendering with PHP and Blade templates.
+- 🏗️ **Architecture:** Structured application design and efficient routing.
+- 🐳 **DevOps Basics:** Containerized development using Docker & Nginx configuration.
 
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img src="https://vercel.app" alt="Ivan's Stats" />
-  <br>
-  <img src="https://vercel.app" alt="Top Languages" />
+<p align="left">
+  <img src="https://vercel.app" alt="Ivan's Stats" width="400" />
+  <img src="https://vercel.app" alt="Top Languages" width="300" />
 </p>
 
 ---
 
-### 🚀 Featured Project: Life Vest Tracker
-[![PHP Composer](https://github.com)](https://github.com)
+### 🚀 Current Direction
+At this stage, I am focusing on strengthening fundamentals through academic and personal projects. The emphasis is on understanding how applications are structured and deployed.
 
-*Project ini sedang dalam pengembangan untuk mempelajari alur kerja CI/CD dan manajemen data berbasis Laravel.*
+**Current Featured Project:**
+[![PHP Composer](https://github.com)](https://github.com)
 
 ---
 
 ### 📫 Connect with me
 <p align="left">
-<a href="mailto:ivanedward@example.com"><img src="https://shields.io" alt="Gmail" /></a>
-<a href="https://linkedin.com" target="blank"><img src="https://shields.io" alt="LinkedIn" /></a>
-</p>
-
----
-<p align="center">
-  <i>"Focusing on the process of understanding how applications are structured and deployed."</i>
+  <a href="mailto:email-anda@gmail.com"><img src="https://shields.io" /></a>
+  <a href="https://linkedin.com"><img src="https://shields.io" /></a>
 </p>
