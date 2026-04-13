@@ -36,9 +36,8 @@ At this stage, I am focusing on strengthening fundamentals through academic and 
 ---
 
 ### 🚀 Featured Project
-**Life Vest Tracker**
-[![PHP Composer](https://github.com)](https://github.com)
-
+*   **Life Vest Tracker** — [Lihat Repositori](https://github.com)  
+    *(Status: Active Development)*
 ---
 
 ### 📫 Connect with me
