@@ -7,6 +7,15 @@ I primarily work with PHP-based technologies and enjoy working on the server sid
 
 ---
 
+### 🛠️ Tech Stack & Tools
+![PHP](https://shields.io)
+![Laravel](https://shields.io)
+![Docker](https://shields.io)
+![Nginx](https://shields.io)
+![MySQL](https://shields.io)
+
+---
+
 ### Areas of Interest
 - Backend web application development
 - Server-side rendering with PHP and Blade
