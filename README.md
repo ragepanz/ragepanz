@@ -7,7 +7,7 @@ I primarily work with PHP-based technologies and enjoy working on the server sid
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 *   **Backend:** PHP, Laravel
 *   **Database:** MySQL
 *   **DevOps:** Docker, Nginx
@@ -15,7 +15,7 @@ I primarily work with PHP-based technologies and enjoy working on the server sid
 
 ---
 
-### 🎯 Areas of Interest
+### Areas of Interest
 *   **Backend Development:** Web application development & API construction.
 *   **SSR:** Server-side rendering with PHP and Blade templates.
 *   **Architecture:** Structured application design and efficient routing.
@@ -23,24 +23,24 @@ I primarily work with PHP-based technologies and enjoy working on the server sid
 
 ---
 
-### 🚀 Current Direction
+### Current Direction
 At this stage, I am focusing on strengthening fundamentals through academic and personal projects. The emphasis is on understanding how applications are structured and deployed, rather than building feature-heavy products.
 
 ---
 
-### 📂 Background
+### Background
 *   Undergraduate Informatics student at **Universitas Esa Unggul**.
 *   Experience with **PHP**, **Laravel**, and basic **JavaScript**.
 *   Familiar with **Docker-based** local development environments.
 
 ---
 
-### 🚀 Featured Project
+### Featured Project
 *   **Life Vest Tracker** — [Lihat Repositori](https://github.com/ragepanz/lifevest-laravel)  
     *(Status: Active Development)*
 ---
 
-### 📫 Connect with me
+### Connect with me
 *   **Email:** ivanedsr@gmail.com 
 *    **LinkedIn:** [linkedin.com/in/ragepanz](https://linkedin.com)
 *    **Instagram** [instagram.com/ivanedward.sr](https://instagram.com)
