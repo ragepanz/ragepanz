@@ -36,7 +36,7 @@ At this stage, I am focusing on strengthening fundamentals through academic and 
 ---
 
 ### 🚀 Featured Project
-*   **Life Vest Tracker** — [Lihat Repositori](https://github.com)  
+*   **Life Vest Tracker** — [Lihat Repositori](https://github.com/ragepanz/lifevest-laravel)  
     *(Status: Active Development)*
 ---
 
